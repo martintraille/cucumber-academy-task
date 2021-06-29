@@ -10,7 +10,10 @@ Have Java 11 or newer installed.
 1. Implement the step definitions to get the amazon purchase smoke test feature working.
 2. Execute the tests against another browser other than Chrome.
 3. Get the four smoke tests to run all at once in parallel.
-4. Create new test to purchase
+4. Implement new feature file containing scenario that:
+- Visits page: https://bitly.com/
+- Shortens any URL you provide as a param for the step definition
+- Makes sure that URL takes user to proper page
 
 ### Run tests locally
 Right click the feature file and select "Run" or "Debug" to start the test.
