@@ -4,7 +4,7 @@ It is written in Java with Cucumber BDD, TestNG and produces reports of test res
 
 ## Getting Started
 Have the Cucumber & TestNG plugin installed in IntelliJ.
-Have Java 11 or newer installed.
+Have Java 11 or newer installed..
 
 ## Tasks
 1. Implement the step definitions to get the amazon purchase smoke test feature working.
